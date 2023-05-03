@@ -1,4 +1,4 @@
-class ApiConnector {
+class ApiConnector { 
   /**
    * Пробует парсить тело ответа, если оно существует
    *
